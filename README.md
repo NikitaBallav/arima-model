@@ -25,6 +25,7 @@ impressive accuracy and low MAPE values underscore the exceptional performance o
 with the selected parameters (p=1, q=1, d=1) in forecasting future values within the time series. These results 
 validate the model's ability to effectively capture the inherent patterns, trends, and dynamics of the data, leading to 
 highly accurate predictions.
+
 In conclusion, the findings of this research highlight the strong predictive capabilities of the employed ARIMA 
 model, which can provide valuable insights and support decision-making processes in various domains that rely on 
 accurate time series forecasting.
